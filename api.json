@@ -1,12 +1,12 @@
 {
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "http://a0746780.xsph.ru/game.zip",
-    "URL_GAME_FILES_UPD" : "http://a0746780.xsph.rufiles_upd.zip",
-    "URL_VK": "https://vk.com/club211577843",
-    "URL_DISCORD": "https://discord.gg/PeQKpkcxFC",
-    "URL_YOUTUBE": "https://youtube.com/@wolfrussia6840",
-    "URL_FORUM": "https://f.ru-state.online/",
-    "URL_DONATE": "https://ru-state.online/donate",
-    "URL_CLIENT": "https://api.ru-state.online/test/client.apk"
+    "URL_GAME_FILES" : "https://sanrelo.ru/mods/wolf.zip",
+    "URL_GAME_FILES_UPD" : "https://sanrelo.ru/upd.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "https://www.youtube.com/",
+    "URL_FORUM": "https://",
+    "URL_DONATE": "https://",
+    "URL_CLIENT": "https:///client.apk"
 }
